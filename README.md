@@ -41,7 +41,7 @@ This notebook runs **three** different **supervised learning algorithms** (*Rand
 
 **Interest Score:** Google search trends on COVID
 
-**Sentiment:** Twiter sentiment based on usage of the "COVID" word for the day. REesults are obtained by applying VADER sentiment analysis to 1000 tweats per day.
+**Sentiment:** Twiter sentiment based on usage of the "COVID" word for the day. Reesults are obtained by applying VADER sentiment analysis to 1000 tweets per day.
 
 **Total_cases:** Total COVID cases since inception. 
 

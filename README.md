@@ -15,7 +15,7 @@ Creating a fear and comfort index using sentiment analysis and covid stats.
 
 # Research Question
 
-Given a set of tickers that I would like to invest in, what is the best allocation and would that allocation perform better in comparison to me investing in ETFs in the corresponding sectors?
+Can a Fear and Comfort Index be used to predict future movements of the stock market?
 
 **Assumptions/Defaults:** Best performing supervised learning algorithm is based on the *accuracy score*. 
 

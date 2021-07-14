@@ -27,9 +27,13 @@ Can a Fear and Comfort Index be used to predict future movements of the stock ma
 
 # Supervised Learning Notebook
 
-* This notebook runs **three** different **supervised learning algorithms** (*Random Forest, Gradient Boost, and KNeighbor*) and will output the correponding classification report, confusion matrix, ROC curve, and the feature importance plot. 
+This notebook runs **three** different **supervised learning algorithms** (*Random Forest, Gradient Boost, and KNeighbor*) and will output the correponding classification report, confusion matrix, ROC curve, and the feature importance plot. 
 
-## Dataset Feild Descriptions
+# Unsupervised Learning Notebook
+
+
+
+# Dataset Feild Descriptions
 
 **HST:** Host Hotels & Resorts, Inc. is an S&P 500 company and is the largest lodging real estate investment trust and one of the largest owners of luxury and upper-upscale hotels. 
 
@@ -49,7 +53,7 @@ Can a Fear and Comfort Index be used to predict future movements of the stock ma
 
 **S&P 500 Daily Movement:** This is the daily percentchange of the S&P index. 
 
-## External Library
+# External Library
 
 We use the lightgbm framework to perform the gradiant boosting classification. You may install it using the following command:
 

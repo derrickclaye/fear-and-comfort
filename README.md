@@ -24,6 +24,7 @@ Can a Fear and Comfort Index be used to predict future movements of the stock ma
 - Yahoo Finance 
 - Twitter 
 - Google trend search 
+- Kaggle Covid World Dataset (https://www.kaggle.com/hussainaliarif/largest-covid19-world-dataset)
 
 # Supervised Learning Notebook
 

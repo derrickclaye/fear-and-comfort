@@ -51,6 +51,8 @@ Can a Fear and Comfort Index be used to predict future movements of the stock ma
 
 ## External Library
 
-This notebook uses the lightgbm framework to perform the gradiant boosting classification. You may install it using the following command:
+We use the lightgbm framework to perform the gradiant boosting classification. You may install it using the following command:
 
 ```!pip install lightgbm```
+
+We also used snscrape to obtain tweets.  

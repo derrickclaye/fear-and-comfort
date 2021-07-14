@@ -61,3 +61,5 @@ We use the lightgbm framework to perform the gradiant boosting classification. Y
 ```!pip install lightgbm```
 
 We also used snscrape to obtain tweets.  
+
+```!pip install snscrape```

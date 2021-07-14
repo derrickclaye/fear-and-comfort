@@ -31,7 +31,7 @@ This notebook runs **three** different **supervised learning algorithms** (*Rand
 
 # Unsupervised Learning Notebook
 
-
+Here we use K-Means and Gaussian Mixture Models to cluster our data. Theoretically, each clusters will represent a general feeling - ranging from from comfortable to fearful.
 
 # Dataset Feild Descriptions
 

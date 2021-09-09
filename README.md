@@ -1,19 +1,9 @@
-# Team Fear & Comfort
+## Fear and Comfort Index
 
-Project 2 Bootcamp (Team 9). 
-
-# Team Members
-
-- Derrick Claye
-- Yourik Hacoupian
-- Sheldon Larmond
-- Alice Lin
-
-# Fear and Comfort Index
-Creating a fear and comfort index using sentiment analysis and covid stats. 
+Inspired by the Fear & Greed index, the Fear and Comfort index was created to measure the public's general feeling about Covid. The index was created using covid sentiment analysis and other covid related data.
  
 
-# Research Question
+### Research Question
 
 Can a Fear and Comfort Index be used to predict future movements of the stock market?
 
@@ -32,7 +22,7 @@ This notebook runs **three** different **supervised learning algorithms** (*Rand
 
 # Unsupervised Learning Notebook
 
-Here we use K-Means and Gaussian Mixture Models to cluster our data. Theoretically, each clusters will represent a general feeling - ranging from from comfortable to fearful.
+K-Means and Gaussian Mixture Models to cluster the data. Theoretically, each clusters will represent a general feeling - ranging from from comfortable to fearful.
 
 # Dataset Feild Descriptions
 
@@ -56,10 +46,10 @@ Here we use K-Means and Gaussian Mixture Models to cluster our data. Theoretical
 
 # External Library
 
-We use the lightgbm framework to perform the gradiant boosting classification. You may install it using the following command:
+The lightgbm framework was used to perform the gradiant boosting classification. You may install it using the following command:
 
 ```!pip install lightgbm```
 
-We also used snscrape to obtain tweets.  
+snscrape was used to obtain tweets.  
 
 ```!pip install snscrape```
